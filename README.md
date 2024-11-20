@@ -54,6 +54,10 @@ Ensure you have the following installed:
    streamlit run app.py
    ```
 
+### Contributors
+1. [Jasmer Singh Sanjotra](https://github.com/TheAlphaJas)
+2. [Ayush Kumar Awasthi](https://github.com/ayushawasthi24)
+   
 This repo was created as a course project for EE305 - EM Waves (Autumn 2024), @ Indian Institute of Technology Indore, India
 
 Credits to our course instructor [Dr. Saptarshi Ghosh](http://people.iiti.ac.in/~sghosh/)
